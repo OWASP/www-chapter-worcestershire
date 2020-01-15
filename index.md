@@ -27,7 +27,7 @@ Please change these items to indicate the actual information you wish to present
 
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
-```
+``` -->
 ## Welcome
 Include some information here about your chapter
 
@@ -41,7 +41,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Local News
 - Meeting Location
 - Everyone is welcome to join us at our chapter meetings.
-
+<!--
 ```
 {info.md}
 
