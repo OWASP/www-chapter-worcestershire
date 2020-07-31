@@ -8,6 +8,9 @@ level: 1
 region: Europe
 
 auto-migrated: 0
+meetup-group: OWASP-Worcestershire-Chapter
+country: United Kingdom
+postal-code: 
 
 ---
 
