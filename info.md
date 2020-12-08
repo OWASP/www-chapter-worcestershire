@@ -2,5 +2,5 @@
 
 
 ### Social Links
-* [Meetup](https://owasp.org/www-chapter-worcestershire/)
+* [Meetup](https://www.meetup.com/OWASP-Worcestershire-Chapter/)
 
